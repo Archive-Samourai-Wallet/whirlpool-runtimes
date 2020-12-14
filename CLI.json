@@ -11,16 +11,16 @@
       "CLI_CHECKSUM": "0f46e08f0116099321c82fc0c86e64e4ccb14e0c383843aeaefca45cfdb31521"
     },
     "QA": {
-      "CLI_VERSION": "0.10.9-QA",
-      "CLI_URL": "/uploads/875a1fc030c807468a52aa30312a9656/whirlpool-client-cli-0.10.9-QA-run.jar",
-      "CLI_CHECKSUM": "9de3ceaff6e8cc0849bde58bc9e17b9c602352df8659adc67ab95b39cf046e4c"
+      "CLI_VERSION": "0.10.10-QA",
+      "CLI_URL": "/uploads/ff0d12bc980dffef5f646db72e1fadb6/whirlpool-client-cli-0.10.10-QA-run.jar",
+      "CLI_CHECKSUM": "aad6c4ae569271c14db59cec76352c1527508ab6ea045390dcd587de3980f3c4"
     }
   },
 
   "GUI": {
     "LAST": {
       "MAINNET": "0.10.2",
-      "TESTNET": "0.10.2"
+      "TESTNET": "0.10.3"
     }
   }
 }
