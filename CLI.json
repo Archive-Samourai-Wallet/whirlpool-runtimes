@@ -12,8 +12,8 @@
     },
     "QA": {
       "CLI_VERSION": "0.10.11-QA",
-      "CLI_URL": "/uploads/967539c384a73c94c97d2df204c14cf9/whirlpool-client-cli-0.10.11-QA-run.jar",
-      "CLI_CHECKSUM": "b32cb2ac0fb5adfee8b114002ed748a8b5768f05935936d6061c216d72419bcc"
+      "CLI_URL": "/uploads/49745c20438e3939210d2f6b35af7a67/whirlpool-client-cli-0.10.11-QA-run.jar",
+      "CLI_CHECKSUM": "09e574743851db2d5374bc7d4e66fd0c29f07b95b4e32b3d70c2187b724d5745"
     }
   },
 
