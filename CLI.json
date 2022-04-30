@@ -1,9 +1,9 @@
 {
   "CLI_API": {
     "0.10": {
-      "CLI_VERSION": "0.10.13",
-      "CLI_URL": "/uploads/c1bb32bac6d4b377f625c996387375c2/whirlpool-client-cli-0.10.13-run.jar",
-      "CLI_CHECKSUM": "78894b934716988eddb8da6db9c6734a3ded416fe68434bedb730f71ded7649d"
+      "CLI_VERSION": "0.10.14",
+      "CLI_URL": "/uploads/18d25ae4b41dd188b6dab53618f63a63/whirlpool-client-cli-0.10.14-run.jar",
+      "CLI_CHECKSUM": "9643d49f61e4aa60d15c97bb139d36ee65f271c31a34e9103f9532e9c7c67a45"
     },
     "develop-SNAPSHOT": {
       "CLI_VERSION": "develop-SNAPSHOT",
