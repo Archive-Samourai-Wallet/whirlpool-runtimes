@@ -11,9 +11,9 @@
       "CLI_CHECKSUM": "0f46e08f0116099321c82fc0c86e64e4ccb14e0c383843aeaefca45cfdb31521"
     },
     "QA": {
-      "CLI_VERSION": "1.0.0-beta7",
-      "CLI_URL": "/uploads/f98d007753ff4b5e6e0bad438c325d0e/whirlpool-client-cli-1.0.0-beta7-run.jar",
-      "CLI_CHECKSUM": "a4b8a7716d902113936321ba88acba623141ecdcfeeb9dec27df49ab6733fffd"
+      "CLI_VERSION": "1.0.0-beta8",
+      "CLI_URL": "/uploads/0f08e157c4970c8361e952a1c1fbfd9f/whirlpool-client-cli-1.0.0-beta8-run.jar",
+      "CLI_CHECKSUM": "8f4d78625217a5c05e126b36896e8f84a533dae44c507a04445180d2a1c04cd7"
     }
   },
 
